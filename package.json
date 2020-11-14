@@ -32,7 +32,7 @@
     "jszip": "^3.5.0",
     "less-middleware": "1.0.x",
     "mongodb": "^3.6.1",
-    "mongoose": "4.10.8",
+    "mongoose": "5.7.5",
     "mongoose-dateonly": "^1.0.3",
     "morgan": "^1.6.1",
     "mysql": "^2.10.0",
