@@ -7,6 +7,12 @@ This page lists the things supported in the old site which haven't yet been reim
 
  * flag motors favorited by other users
 
+## Search
+
+ * search for class 1 motors
+ * search for plugged motors
+ * search for no hazmat shipping motors
+
 ## Motor Guide
 
  * use visual styles in spreadsheets
